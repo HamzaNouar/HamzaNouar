@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Hamza
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45px">, I'm Hamza</h1>
+<h3 align="center">----------------------------------------------------------------------</h3>
 - 🌱 I’m currently learning **.NET Core** , **Web development** , **T-SQL** , **OOP** , **DS and Algos**
 
 - 📫 How to reach me mizonouar.ok@gmail.com
