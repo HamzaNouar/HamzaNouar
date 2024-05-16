@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hamza
 
 - 🌱 I’m currently learning .NET Core , Web development , T-SQL , OOP , DS and Algos
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me mizonouar.ok@gmail.com
 
 
