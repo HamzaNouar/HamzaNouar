@@ -5,7 +5,6 @@
 - 📫 How to reach me mizonouar.ok@gmail.com
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hamza-nouar-5122111b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled-yousef-164299275" height="30" width="40" /></a>
 <a href="https://www.facebook.com/hamza.aitnouar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="k2321" height="30" width="40" /></a>
